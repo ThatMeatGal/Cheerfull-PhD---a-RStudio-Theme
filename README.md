@@ -8,7 +8,7 @@ Anyway, if you come across this theme, whether you like it or hate it, I hope it
 ## Thoughts behind the colors in the theme: 
 **Cotton Candy (Cyan and Pink)**
   - The good ol' days when I used to play ARK: Survival Evolved, I had/bred/raised a lot... a lot of cotton candy dinos... like a lot... (Boss Daeodon and CC X-Yutyrannus were my gigs, or a pack of CC Troodons roaming around, the list goes on)
-  - Anyways, it's a reminder that taking a break from work/studies isn't too bad of an idea from time to time! #WorkLifeBalance ⚖️ (But really tho, what is this concept...?)
+  - Anyway, it's a reminder that taking a break from work/studies isn't too bad of an idea from time to time! #WorkLifeBalance ⚖️ (But really tho, what is this concept...?)
 
 **Gold**
   - Between **_BOILER UP_** and **_GO VANDALS_**, I pretty much bleed black and gold at this point
