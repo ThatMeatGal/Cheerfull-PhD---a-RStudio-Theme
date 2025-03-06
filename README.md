@@ -1,3 +1,5 @@
+Possibly one of the moodeist README you'll come across, but here it goes... 
+
 It was in the middle of the night, and I was browsing forums looking for ways to help debug my code when this thought came to me… If I’m staring at RStudio for hours on end, it might as well be a theme I liked 
 
 So naturally, as a productive graduate student, I put my code aside and went on to make this color theme before promptly installing it on my computer, and it remained the active theme thereafter
@@ -28,3 +30,6 @@ Anyway, if you come across this theme, whether you like it or hate it, I hope it
 
 Hope you enjoy, \
 A cheerful PhD student
+
+Theme Preview: \
+![CheerfulPhD Theme Preview](https://github.com/user-attachments/assets/2dad1f9f-a83f-4007-8381-81748164145a)
