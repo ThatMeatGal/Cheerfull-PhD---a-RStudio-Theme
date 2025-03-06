@@ -22,7 +22,7 @@ Anyway, if you come across this theme, whether you like it or hate it, I hope it
   - Off white is a little softer on the dark background
 
 ## Install the theme to RStudio
-- Download the theme
+- Download the theme (Cheerful PhD.tmTheme)
 - Open RStudio (duh) ➡️ Edit ➡️ Appearance ➡️ Click on "Add" below the "Editor theme:" box ➡️ Select the downloaded theme
 - From there you can see a preview of the theme, and decide if you would like to use it ☑️
 
